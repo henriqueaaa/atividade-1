@@ -10,7 +10,7 @@ programa {
     escreva("O resultado da soma é: "+ resultado, "\n", "\n") 
     
 
-  inteiro n1,
+  inteiro n1, n2, sub
   // Algoritmo de subtração
   escreva ("Digite um número: ")
   leia (n1)
@@ -27,7 +27,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 185; 
+ * @POSICAO-CURSOR = 313; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
